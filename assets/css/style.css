@@ -1,0 +1,127 @@
+/* Colors*/
+body {
+    background-color: #d6d1b2;
+}
+
+.bg-color-name-title {
+    background-color: #79797a;
+}
+
+.ui-menu-color-home {
+    background-color: #656bc9;
+}
+
+.ui-menu-color-resume {
+    background-color: #656bc9;
+}
+
+.ui-menu-color-contact {
+    background-color: #656bc9;
+}
+
+.ui-menu-color-download {
+    background-color: #656bc9;
+}
+
+/* Heading */
+
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.name {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #fff;
+}
+
+.logo {
+    background: url(../images/ProfilePic.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    border: solid 3px #535454;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #fff;
+}
+
+.menuitem a i {
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+#nav {
+    margin: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+    color: #000;
+    height: 120px;
+}
+
+#me {
+    border: 3px solid #535454;
+}
+
+#nav-elements {
+    border: 3px solid #535454;
+}
+
+/* Hover */
+
+.hvr-sweep-to-bottom:before {
+    background: rgba( 0, 0, 0, 1);
+    height: 120px; 
+}
