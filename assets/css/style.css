@@ -209,3 +209,14 @@ footer {
 .social-links li a i {
     background: blue;
 }
+
+/* Three Reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #656bc9;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
+}
