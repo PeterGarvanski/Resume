@@ -1,19 +1,13 @@
 /* Colors*/
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/main
 .bg-color-name-title {
     background-color: #79797a;
 }
 
-<<<<<<< HEAD
 .bg-color-three-reasons {
     background-color: #fff;
 }
 
-=======
->>>>>>> origin/main
 .ui-menu-color-home {
     background-color: #656bc9;
 }
@@ -30,7 +24,6 @@
     background-color: #656bc9;
 }
 
-<<<<<<< HEAD
 .brdr {
     border: 3px solid #535454;
 }
@@ -54,8 +47,6 @@ h4 {
     color: #fafafa;
 }
 
-=======
->>>>>>> origin/main
 /* Heading */
 
 header {
@@ -133,7 +124,6 @@ header {
     letter-spacing: 2px;
 }
 
-<<<<<<< HEAD
 .row-table {
     display: table;
 }
@@ -151,18 +141,12 @@ header {
     margin-bottom: 40px;
 }
 
-=======
->>>>>>> origin/main
 #nav {
     margin: 0;
 }
 
 #nav li {
-<<<<<<< HEAD
     font-size: 26px;
-=======
-    font-size: 14px;
->>>>>>> origin/main
     padding: 0;
     color: #000;
     height: 120px;
@@ -175,8 +159,6 @@ header {
 #nav-elements {
     border: 3px solid #535454;
 }
-
-<<<<<<< HEAD
 
 /* Footer */
 
@@ -242,11 +224,11 @@ footer {
 
 .three-reasons-heading {
     margin-bottom: 15px;
-=======
+}
+
 /* Hover */
 
 .hvr-sweep-to-bottom:before {
     background: rgba( 0, 0, 0, 1);
     height: 120px; 
->>>>>>> origin/main
 }
