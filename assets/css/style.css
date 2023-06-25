@@ -23,6 +23,10 @@
     background-color: #656bc9;
 }
 
+.brdr {
+    border: 3px solid #535454;
+}
+
 /* Special Paddings/Margins/Texts */
 
 h1,
@@ -141,7 +145,7 @@ header {
 }
 
 #nav li {
-    font-size: 14px;
+    font-size: 26px;
     padding: 0;
     color: #000;
     height: 120px;
@@ -154,6 +158,7 @@ header {
 #nav-elements {
     border: 3px solid #535454;
 }
+
 
 /* Footer */
 
